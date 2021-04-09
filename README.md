@@ -1,11 +1,6 @@
 ## Host Multiple TensorFlow computer vision models using Amazon SageMaker Multi-model endpoint
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+CIFAR-10  is an established computer-vision dataset used for object recognition. It is a subset of the 80 million tiny images dataset and consists of 60,000 32x32 color images containing one of 10 object classes, with 6000 images per class.
 
 ## Security
 
