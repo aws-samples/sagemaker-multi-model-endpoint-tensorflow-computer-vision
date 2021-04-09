@@ -4,6 +4,8 @@ Amazon SageMaker Multi-Model Endpoints provides a scalable and cost-effective wa
 
 In this repository, we demonstrate how to host two computer vision models trained using the TensorFlow framework under one SageMaker multi-model endpoint.  For the first model, we train a smaller version of AlexNet CNN to classify images from the CIFAR-10 dataset. For the second model, we use a pretrained VGG16 CNN model pretrained on the ImageNet dataset and fine-tuned on the Sign Language Digits Dataset to classify hand symbol images. 
 
+<img src="/img/sagemaker-design-patterns-mme-cv.jpg" alt="SageMaker Multi-model Endpoint"/>
+
 ### Model-1: CIFAR-10 image classification
 CIFAR-10 is a benchmark dataset for image classification in the CV and ML literature. CIFAR images are colored (three channels) with dramatic variation in how the objects appear. It consists of 32×32 color images in 10 classes, with 6,000 images per class. There are 50,000 training images and 10,000 test images. Figure below shows a sample of the images grouped by the labels.
 
