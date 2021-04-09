@@ -1,4 +1,4 @@
-## My Project
+## Host Multiple TensorFlow computer vision models using Amazon SageMaker Multi-model endpoint
 
 TODO: Fill this README out!
 
