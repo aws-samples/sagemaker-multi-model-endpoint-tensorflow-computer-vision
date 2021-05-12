@@ -12,12 +12,13 @@ CIFAR-10 is a benchmark dataset for image classification in the CV and ML litera
 ### Model-2: Sign language digits classification 
 For model-2, we will use the sign language digits dataset. This dataset distinguishes the sign language digits from 0 to 9. The figure below shows a sample of the dataset. 
 Following are the details of the dataset: 
-•	Number of classes = 10 (digits 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9) 
-•	Image size = 100 × 100
-•	Color space = RGB
-•	1,712 images in the training set 
-•	300 images in the validation set
-•	50 images in the test set 
+
+* Number of classes = 10 (digits 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9) 
+* Image size = 100 × 100
+* Color space = RGB
+* 1,712 images in the training set 
+* 300 images in the validation set
+* 50 images in the test set 
 
 
 ## Security
