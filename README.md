@@ -7,7 +7,7 @@ In this repository, we demonstrate how to host two computer vision models traine
 <img src="/img/sagemaker-design-patterns-mme-cv.jpg" alt="SageMaker Multi-model Endpoint"/>
 
 ### Model-1: CIFAR-10 image classification
-CIFAR-10 is a benchmark dataset for image classification in the CV and ML literature. CIFAR images are colored (three channels) with dramatic variation in how the objects appear. It consists of 32×32 color images in 10 classes, with 6,000 images per class. There are 50,000 training images and 10,000 test images. Figure below shows a sample of the images grouped by the labels.
+For model-1, we will use CIFAR-10 dataset. CIFAR-10 is a benchmark dataset for image classification in the CV and ML literature. CIFAR images are colored (three channels) with dramatic variation in how the objects appear. It consists of 32×32 color images in 10 classes, with 6,000 images per class. There are 50,000 training images and 10,000 test images. 
 
 ### Model-2: Sign language digits classification 
 For model-2, we will use the sign language digits dataset. This dataset distinguishes the sign language digits from 0 to 9. The figure below shows a sample of the dataset. 
